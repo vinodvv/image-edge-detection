@@ -1,6 +1,6 @@
 # Edge Detection with OpenCV
 
-This project demonstrates a simple implementation of edge detection using the Canny Edge Detection algorithm in OpenCV and Python.
+This project demonstrates a simple implementation of edge detection using the OpenCV and Python.
 
 ## Getting Started
 
